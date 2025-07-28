@@ -44,7 +44,7 @@ const gameData = {
     name: "Limbo",
     description: "Limbo is a 2D puzzle-platformer known for its eerie black-and-white art style and emotional depth.",
     longDescription: "'OPEN THE README FILE AFTER DOWNLOADING THE GAME', Play as a boy who enters a mysterious and dangerous world in search of his sister. Solve puzzles, avoid traps, and uncover secrets in this critically acclaimed indie classic.",
-    icon: "\\src\\pages\\images\\Limbo_Box_Art.jpg",
+    icon: "public/image/Limbo_Box_Art.jpg",
     downloadUrl: "https://www.dropbox.com/scl/fi/lmeaaz7vubs4agr4aq2hd/LIMBO.zip?rlkey=wuhmdavjpwpiv4yuj4ouy4ak6&st=429n4t0u&dl=1"
   },
   "7": {
