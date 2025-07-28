@@ -8,7 +8,7 @@ const gamesData = [
     id: "1",
     name: "Grand Theft Auto: San Andreas",
     description: "Dive into 90s gang wars, street racing, and crime-filled missions in this legendary open-world game.",
-    icon: "src/pages/images/gta-sanandreas-cover-art-definitive-edition-1920.jpg"
+    icon: "/src/pages/images/gta-sanandreas-cover-art-definitive-edition-1920.jpg"
   },
   {
     id: "2",
