@@ -14,7 +14,7 @@ const gamesData = [
     id: "2",
     name: "Scarface: The World Is Yours",
     description: "Rebuild Tony Montana’s empire and take revenge in this gritty open-world action game.",
-    icon: "\\src\\pages\\images\\scarface.jpg"
+    icon: "public\\src\\pages\\images\\scarface.jpg"
   },
   {
     id: "3",
